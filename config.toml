@@ -1,0 +1,35 @@
+baseurl = "https://luisguveworks.github.io/"
+languageCode = "en-us"
+title = "Luis G. Villegas"
+theme = "hugo-cards"
+paginate = 6
+
+[params]
+  builtBy = "bool"
+  defaultImage = "strapilogo.jpg"
+
+  facebook = ""
+  quora = ""
+  twitter = ""
+  github = "https://github.com/luisguve"
+  email = "luisguveal@gmail.com"
+
+  fbLikeBox = ""
+  fbAppId = ""
+  fbPageUrl = ""
+  fbPageTitle = ""
+
+  disqus = ""
+
+  custom_css = ["css/custom.css"]
+
+  [params.analytics]
+    type="UA"
+    trackingID = ""
+
+  [params.copyright]
+     name = "Luis Villegas' Portfolio"
+     link = "https://github.com/luisguve"
+
+[markup.goldmark.renderer]
+  unsafe = true
