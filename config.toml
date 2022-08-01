@@ -28,7 +28,7 @@ paginate = 6
     trackingID = ""
 
   [params.copyright]
-     name = "Luis Villegas' Portfolio"
+     name = "Luis Villegas"
      link = "https://github.com/luisguve"
 
 [markup.goldmark.renderer]
