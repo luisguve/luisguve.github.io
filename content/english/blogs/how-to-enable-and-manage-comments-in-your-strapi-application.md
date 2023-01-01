@@ -4,7 +4,7 @@ description: "In this post we'll learn how to enable comments in a strapi applic
 images:
   - "images/post/strapilogo.jpg"
 date: 2023-01-01T12:21:25+06:00
-tags: ["Strapi", "Strapi plugins"]
+tags: ["Strapi", "Strapi tutorials"]
 categories: ["Tutorial"]
 draft: true
 ---

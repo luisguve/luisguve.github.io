@@ -5,7 +5,7 @@ images:
   - "images/post/01.jpg"
 date: 2023-01-01T12:21:25+06:00
 tags: ["Strapi", "Strapi plugins"]
-categories: ["Tutorial"]
+categories: ["Documentation"]
 draft: true
 ---
 

@@ -2,10 +2,10 @@
 title: "Strapi Plugin Ratings"
 description: "Strapi plugin to allow your users to post reviews on any type of content"
 images:
-  - "images/post/strapilogo.jpg"
+  - "images/post/ratings.jpg"
 date: 2023-01-01T12:21:25+06:00
 tags: ["Strapi", "Strapi plugins"]
-categories: ["Tutorial"]
+categories: ["Documentation"]
 draft: false
 ---
 

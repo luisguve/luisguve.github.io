@@ -57,8 +57,8 @@ logo_rotate = true
 description = "In this blog, I'm going to share my experience on building applications for both the backend and frontend using mainly Strapi, Typescript and React."
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
+address = ""
+mobile = ""
 email = "luisguveal@gmail.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -106,7 +106,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Subscription
 [params.subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
@@ -123,10 +123,10 @@ sidebar = ["about-me", "recent-post", "categories", "tags"]
 # available widget : search,about-me,authors,categories,tags,recent-post,social,promotion,subscription
 
 ############################# social site ########################
-[[params.social]]
-title = "Twitter"
-icon = "fab fa-twitter" # Fhemify icon : https://themify.me/themify-icons
-link = "https://twitter.com/@luisguve"
+#[[params.social]]
+#title = "Twitter"
+#icon = "fab fa-twitter" # Fhemify icon : https://themify.me/themify-icons
+#link = "https://twitter.com/@luisguve"
 
 [[params.social]]
 title = "Github"
@@ -141,7 +141,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy;2022 <br>"
+copyright = "Copyright &copy;2023 <br>"
 
 
 ############# English navigation ##############

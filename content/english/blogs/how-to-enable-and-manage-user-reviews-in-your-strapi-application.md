@@ -2,9 +2,9 @@
 title: "How To Enable And Manage User Reviews In Your Strapi Application."
 description: "In this article we'll learn how to enable user reviews in a strapi application as well as displaying user reviews in the frontend with React"
 images:
-  - "images/post/01.jpg"
+  - "images/post/tutorial-ratings.jpg"
 date: 2023-01-01T12:21:25+06:00
-tags: ["Strapi", "Strapi plugins"]
+tags: ["Strapi", "Strapi tutorials"]
 categories: ["Tutorial"]
 draft: false
 ---
@@ -18,8 +18,6 @@ Enable User Reviews in a Strapi application and display them in the frontend wit
 - Installation
 - Configuration
 - Display user reviews on the frontend
-    - Installation of Strapi Ratings Client
-    - Usage of Strapi Ratings Client
 - Plugin settings
 - Manage user reviews
 - Full source code of the frontend
@@ -28,7 +26,7 @@ Enable User Reviews in a Strapi application and display them in the frontend wit
 
 ### Introduction
 
-Ratings systems have become a crucial part of any website with ecommerce capabilites, since they allow the users to post reviews on the items they purchase and leave their opinion publicly. A couple of reviews can make the difference between pressing the “Buy” button and moving on to the next website in the Google search results.
+Ratings systems have become a crucial part of any website with ecommerce capabilites, as they allow the users to post reviews on the items they purchase and publish their opinion to the public. A couple of reviews can make the difference between pressing the “Buy” button and moving on to the next website in the Google search results.
 
 In this article, I'll show you how to enable and manage user reviews for your content very easily using the [Ratings](https://npmjs.com/package/strapi-ratings-plugin) plugin, and display them in your frontend application.
 
@@ -259,7 +257,7 @@ In both of them you can delete unwanted reviews.
 
 ### Example project
 
-You can find a full working example of a React App using the Strapi Ratings Client Library in [this repo](https://github.com/luisguve/strapi-ratings-client-example)
+You can find a full working example of a React App using the Strapi Ratings Client Library in this repo: https://github.com/luisguve/strapi-ratings-client-example
 
 ### Conclusion
 
