@@ -1,5 +1,5 @@
 ---
-title: "How To Enable And Manage User Reviews In Your Strapi Application."
+title: "How To Enable And Manage User Reviews In Your Strapi Application"
 description: "In this article we'll learn how to enable user reviews in a strapi application as well as displaying user reviews in the frontend with React"
 images:
   - "images/post/tutorial-ratings.jpg"
