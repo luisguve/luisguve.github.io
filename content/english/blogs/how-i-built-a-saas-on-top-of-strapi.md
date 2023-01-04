@@ -19,6 +19,7 @@ In this post I&rsquo;m going to share my experience on building a SaaS using the
 - Developing features in Strapi
 - The frontend: How to get content
 - Conclusion
+- Landing Page
 
 ### Introduction
 
@@ -108,9 +109,11 @@ The application for drivers and users is a mobile application built in React Nat
 
 ### Conclusion
 
-Using a CMS as the backend can make the development a lot faster than building the API from scratch and with Strapi
+Using a CMS as the backend can make the development a lot faster than building the API from scratch and with Strapi this is specially true. Furthermore, this becomes more important when building a brand-new product, as it's usually recommended to launch as soon as possible to gather feedback from the users and validate the idea.
 
+### Project landing page:
 
+https://rutieri.netlify.app
 
 
 

@@ -7,8 +7,8 @@ layout: "about"
 
 name: "Luis G. Villegas"
 email: "luisguveal@gmail.com"
-image: "images/author.png"
-summary: "I'm a software developer. All things web/mobile. I build projects with Strapi, React and Typescript and I share my experiences"
+image: "images/author.webp"
+summary: "I'm a software developer focused on web and mobile technologies. Building projects with Strapi, React and Typescript, and now sharing my experiences here."
 
 partners:
   enable: false
