@@ -7,6 +7,7 @@ date: 2023-01-01T12:21:25+06:00
 tags: ["Strapi", "React Native", "Typescript"]
 categories: ["Projects"]
 draft: false
+slug: "how-i-built-a-saas-on-top-of-strapi-and-why-you-should-too"
 ---
 
 In this post I&rsquo;m going to share my experience on building a SaaS using the [headless CMS Strapi](https://strapi.io/) as the Backend, React Native and other technologies.

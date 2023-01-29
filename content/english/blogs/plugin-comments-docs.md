@@ -2,11 +2,12 @@
 title: "Strapi Plugin Comment Manager"
 description: "Strapi plugin to allow your users to post comments on any kind of content"
 images:
-  - "images/post/01.jpg"
-date: 2023-01-01T12:21:25+06:00
+  - "images/post/strapilogo.jpg"
+date: 2023-01-29T12:21:25+06:00
 tags: ["Strapi", "Strapi plugins"]
 categories: ["Documentation"]
-draft: true
+draft: false
+slug: "strapi-plugin-comment-manager"
 ---
 
 [Comment Manager](https://npmjs.com/package/strapi-plugin-comment-manager) is a Strapi plugin to allow your users to post comments.

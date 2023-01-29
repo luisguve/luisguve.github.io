@@ -7,6 +7,7 @@ date: 2023-01-01T12:21:25+06:00
 tags: ["Strapi", "Strapi plugins"]
 categories: ["Documentation"]
 draft: false
+slug: "strapi-plugin-ratings"
 ---
 
 [Ratings](https://npmjs.com/package/strapi-plugin-ratings) is a Strapi plugin that allows your users to post reviews.

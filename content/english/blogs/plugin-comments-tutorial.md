@@ -3,10 +3,11 @@ title: "How To Enable And Manage Comments In Your Strapi Application."
 description: "In this post we'll learn how to enable comments in a strapi application as well as displaying comments in the frontend with React"
 images:
   - "images/post/strapilogo.jpg"
-date: 2023-01-01T12:21:25+06:00
+date: 2023-01-29T12:21:25+06:00
 tags: ["Strapi", "Strapi tutorials"]
 categories: ["Tutorial"]
-draft: true
+draft: false
+slug: "how-to-enable-and-manage-comments-in-your-strapi-application"
 ---
 
 Enable comments in a Strapi application and display them in the frontend with React

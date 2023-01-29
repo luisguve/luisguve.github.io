@@ -7,6 +7,7 @@ date: 2023-01-01T12:21:25+06:00
 tags: ["Strapi", "Strapi tutorials"]
 categories: ["Tutorial"]
 draft: false
+slug: "how-to-enable-and-manage-user-reviews-in-your-strapi-application"
 ---
 
 Enable User Reviews in a Strapi application and display them in the frontend with React
