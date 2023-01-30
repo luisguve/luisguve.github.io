@@ -11,7 +11,7 @@ googleAnalytics = "" # example : UA-123-45
 # disqus short name
 # disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = ["fr"] # desable language from here
+disableLanguages = ["fr", "es"] # desable language from here
 
 
 ############################# Outputs ##############################
@@ -65,7 +65,7 @@ contact_form_action = "#" # contact form works with https://formspree.io
 # Search
 search = true
 # Main section
-mainSections = ["blogs"]
+mainSections = ["blogs", "projects"]
 # custom script on header
 custom_script= ""
 
@@ -163,5 +163,38 @@ weight = 3
 
 [[Languages.en.menu.main]]
 name = "Contact"
+url = "contact/"
+weight = 5
+
+
+################################### Español #####################################
+[Languages.es]
+languageName = "Es"
+languageCode = "es-ve"
+contentDir = "content/spanish"
+weight = 2
+# copyright
+copyright = "Copyright &copy;2023 <br>"
+
+
+############# English navigation ##############
+# main menu
+[[Languages.es.menu.main]]
+name = "Inicio"
+url = ""
+weight = 1
+
+[[Languages.es.menu.main]]
+name = "Acerca"
+url = "about/"
+weight = 2
+
+[[Languages.es.menu.main]]
+name = "Blogs"
+url = "blogs/"
+weight = 3
+
+[[Languages.es.menu.main]]
+name = "Contacto"
 url = "contact/"
 weight = 5

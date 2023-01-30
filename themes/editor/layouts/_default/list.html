@@ -1,12 +1,12 @@
 {{ define "main" }}
 
 <!-- checking blog -->
-{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") }}
+{{ if or (eq .Section "post") (eq .Section "posts") (eq .Section "blog") (eq .Section "blogs") (eq .Section "news") (eq .Section "projects") }}
 {{ partial "page-header.html" . }}
 
 <div class="col-12">
   <div class="row">
-    {{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+    {{ $paginator := .Paginate (where site.RegularPages "Type" .Section) }}
     {{ range $paginator.Pages }}
     <div class="col-lg-4 col-md-4 col-sm-6">
       {{ .Render "article" }}

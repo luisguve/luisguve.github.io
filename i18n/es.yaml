@@ -1,0 +1,77 @@
+- id: search_placeholder
+  translation: Escribe y presiona Enter...
+
+- id: our_instagram
+  translation: Our Instagram
+
+- id: name
+  translation: Nombre
+
+- id: email
+  translation: Dirección de email
+
+- id: subject
+  translation: Asunto
+
+- id: message
+  translation: Mensaje
+
+- id: send_message
+  translation: Enviar Mensaje
+
+- id: search_result_for
+  translation: Resultados de búsqueda para
+
+- id: you_may_also_like
+  translation: También podría interesarte
+
+- id: recent_post
+  translation: Entrada reciente
+
+- id: written_by
+  translation: Escrito por
+
+- id: read_more
+  translation: Leer más
+  
+- id: read_article
+  translation: Leer entrada
+
+- id: showing_posts_from
+  translation: Mostrando entradas de
+
+- id: home
+  translation: Inicio
+
+- id: search
+  translation: Buscar
+
+- id: categories
+  translation: Categorías
+
+- id: tags
+  translation: Tags
+
+- id: tag
+  translation: tag
+
+- id: category
+  translation: categoría
+
+- id: social
+  translation: Social
+
+- id: copyright-text
+  translation: Designed & Developed By
+
+- id: my_name_is
+  translation: Mi nombre es
+
+- id: enter_your_email
+  translation: Ingresa tu correo
+
+- id: subscribe_title
+  translation: Subscribe to the best creative articles feed.
+
+- id: about_me
+  translation: Sobre mí

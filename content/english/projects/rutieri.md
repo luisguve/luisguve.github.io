@@ -3,7 +3,7 @@ title: "SaaS platform: Rutieri"
 description: "In this post I am going to share my experience on building a SaaS platform using the headless CMS Strapi as the Backend and React Native."
 images:
   - "images/post/03.webp"
-date: 2023-01-30T12:21:25+06:00
+date: 2023-01-29T12:21:25+06:00
 tags: ["Strapi", "React Native", "React", "Typescript", "Firebase"]
 categories: ["Projects"]
 draft: false
@@ -25,28 +25,3 @@ In this post I&rsquo;m going to share my experience on building a SaaS using the
 ### Project landing page:
 
 https://rutieri.netlify.app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
