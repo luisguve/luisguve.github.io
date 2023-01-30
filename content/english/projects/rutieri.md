@@ -2,7 +2,7 @@
 title: "SaaS platform: Rutieri"
 description: "In this post I am going to share my experience on building a SaaS platform using the headless CMS Strapi as the Backend and React Native."
 images:
-  - "images/post/03.webp"
+  - "images/project/rutieri/landing/homepage.webp"
 date: 2023-01-30T12:14:25+06:00
 tags: ["Strapi", "React Native", "React", "Typescript", "Firebase"]
 categories: ["Projects"]
@@ -43,33 +43,33 @@ As I said before, Strapi makes the creation of these content types and the relat
 
 The following user stories illustrates the desired features the platform should have in order to solve the aforementioned problems.
 
-#### As an administrator user
+#### As an administrator user, I want to:
 
-1. As an administrator, I want to login in the admin panel.
-1. As an administrator, I want to create an organization.
-1. As an administrator, I want to create routes in the organization.
-1. As an administrator, I want to invite drivers and users to the organization.
-1. As an administrator, I want to manage requests to join the organization.
-1. As an administrator, I want to assign routes to drivers in the organization.
-1. As an administrator, I want to see in real time the drivers and users currently active in the map of the different routes.
+1. **login** in the admin panel.
+1. **create** an organization.
+1. **create** routes in the organization.
+1. **invite** drivers and users to the organization.
+1. **manage** requests to join the organization.
+1. **assign routes** to drivers in the organization.
+1. **see** in real time the drivers and users currently active in the map of the different routes.
 
-#### As a driver
+#### As a driver, I want to:
 
-1. As a driver, I want to login in the mobile app.
-1. As a driver, I want to join an organization by entering the code in the search bar.
-1. As a driver, I want to see my route on the map.
-1. As a driver, I want to become visible to passengers on the road.
-1. As a driver, I want to see the passengers waiting on the road.
-1. As a driver, I want to remove my visibility and finish my run.
+1. **login** in the mobile app.
+1. **join** an organization by entering the code in the search bar.
+1. **see** my route on the map.
+1. **become** visible to passengers on the road.
+1. **see** the passengers waiting on the road.
+1. **remove** my visibility and finish my run.
 
-#### As a user
+#### As a passenger, I want to:
 
-1. As a user, I want to login in the mobile app.
-1. As a user, I want to join an organization by entering the code in the search bar.
-1. As a user, I want to see the different routes of my organization in the map.
-1. As a user, I want to search for a destination and get the available routes that pass nearby.
-1. As a user, I want to see the drivers currently active on the routes in real time.
-1. As a user, I want to become visible to drivers of a route.
+1. **login** in the mobile app.
+1. **join** an organization by entering the code in the search bar.
+1. **see** the different routes of my organization in the map.
+1. **search** for a destination and get the available routes that pass nearby.
+1. **see** the drivers currently active on the routes in real time.
+1. **become** visible to drivers of a route.
 
 ### The stack
 
