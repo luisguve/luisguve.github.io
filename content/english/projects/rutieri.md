@@ -147,6 +147,14 @@ It consists of three screens:
 
 In the welcome screen, users are able to go to the login screen if not logged in. Otherwise, if they're in an organisation, it shows their role and org's information, and if they're not, they are able to enter the organisation code and request to join as driver or as passenger.
 
+#### Welcome screens
+
+![welcome-screen](/images/project/rutieri/app/welcome-screens.webp)
+
+#### Login screens
+
+![auth-screen](/images/project/rutieri/app/auth-screens.webp)
+
 If the user is a driver in an organisation, the welcome screen also shows the route assigned to them. By tapping on it, it takes them to the map, where they can see themselves and start the tour, becoming visible to passengers on the road but being able to see passengers on the road as well.
 
 Drivers can finish the tour at any time by pressing the button stop.
@@ -156,6 +164,10 @@ If the user is a passenger in an organisation, the welcome screen shows the diff
 Passengers are able to navigate between the available routes and search for the location they want to go to by using the search bar at the top of the map screen, filtering out the routes that pass nearby (less than 200 meters), if there are. [Google Places API](https://developers.google.com/maps/documentation/places/web-service/overview?hl=es-419) and [turf library](https://www.npmjs.com/package/@turf/turf) work together in this search process.
 
 Passengers become visible to drivers on the road by pressing the button `wait` and if they press the button again, they stop waiting and are removed from the driver's map.
+
+#### Map screens
+
+![map-screen](/images/project/rutieri/app/map-screens.webp)
 
 The start/wait and finish buttons dispatch actions that update their location in firebase, so that passengers are able to see the bus on the map as it moves in real time and viceversa.
 
