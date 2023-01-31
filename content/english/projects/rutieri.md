@@ -31,14 +31,6 @@ The problem I was looking into had to do with the way in which public and privat
 
 After a little bit of research, I could only find one platform that provides a similiar solution but for their own company.
 
-So the platform I built needed the following content types:
-
-- Organizations to group routes, drivers and users
-- Routes
-- Two user roles: drivers and users (passengers)
-
-As I said before, Strapi makes the creation of these content types and the relationships between them really easy, but let's first see what is Strapi and how it turns the API development into a satisfactory and fun experience.
-
 ### Platform features and user stories
 
 The following user stories illustrates the desired features the platform should have in order to solve the aforementioned problems.
@@ -71,7 +63,7 @@ The following user stories illustrates the desired features the platform should 
 1. **see** the drivers currently active on the routes in real time.
 1. **become** visible to drivers of a route.
 
-### The stack
+### The requirements
 
 The backend requires to handle user authentication, permissions, different data structures as content types and define relations between them. It's also necessary to synchronise passengers and drivers and view them on a map real time in the administration panel as well as in the mobile app.
 
