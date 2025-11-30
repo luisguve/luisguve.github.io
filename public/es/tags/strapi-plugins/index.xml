@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strapi Plugins on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/es/tags/strapi-plugins/</link>
+    <description>Recent content in Strapi Plugins on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 12:21:25 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/es/tags/strapi-plugins/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strapi Plugin Ratings</title>
+      <link>//localhost:1313/es/blogs/strapi-plugin-ratings/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/es/blogs/strapi-plugin-ratings/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://npmjs.com/package/strapi-plugin-ratings&#34;&gt;Ratings&lt;/a&gt; is a Strapi plugin that allows your users to post reviews.&lt;/p&gt;&#xA;&lt;p&gt;Enable and manage user reviews for your content very easily!&lt;/p&gt;&#xA;&lt;h3 id=&#34;requirements&#34;&gt;Requirements&lt;/h3&gt;&#xA;&lt;p&gt;You should have installed an instance of Strapi v4.x.x&lt;/p&gt;&#xA;&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;&#xA;&lt;p&gt;Run the following command in your project root:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;npm install strapi-plugin-ratings&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Then, rebuild the admin dashboard using the following command&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;npm run build&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h3 id=&#34;configurarion&#34;&gt;Configurarion&lt;/h3&gt;&#xA;&lt;p&gt;For your frontend to have access to the API, enable the following permissions for &lt;strong&gt;Ratings&lt;/strong&gt; from &lt;strong&gt;Users &amp;amp; Permissions Plugin&lt;/strong&gt; on your project settings:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

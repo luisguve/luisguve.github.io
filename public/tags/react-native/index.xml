@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React Native on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/react-native/</link>
+    <description>Recent content in React Native on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Mon, 30 Jan 2023 12:14:25 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SaaS platform: Rutieri</title>
+      <link>//localhost:1313/projects/saas-platform-rutieri/</link>
+      <pubDate>Mon, 30 Jan 2023 12:14:25 +0600</pubDate>
+      <guid>//localhost:1313/projects/saas-platform-rutieri/</guid>
+      <description>&lt;p&gt;Rutieri is a SaaS platform built with &lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt;, React Native, Typescript and other technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The idea&lt;/li&gt;&#xA;&lt;li&gt;Platform features&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;The API&lt;/li&gt;&#xA;&lt;li&gt;The frontend&lt;/li&gt;&#xA;&lt;li&gt;The mobile app&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Landing Page&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-idea&#34;&gt;The idea&lt;/h3&gt;&#xA;&lt;p&gt;Before starting to write a single line of code, it is generally a good idea to think about the problem, it&amp;rsquo;s limitations and whether or not it has already been solved by someone else (AKA competitors).&lt;/p&gt;&#xA;&lt;p&gt;The problem I was looking into had to do with the way in which public and private transportation companies manage their routes, drivers and users. This process is generally carried out on paper, e.g. not digital, hence this could be problematic in case of new drivers joining the organization or in case of restricting access to data to only specific users.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How I Built A SaaS On Top Of Strapi, And Why You Should Too</title>
+      <link>//localhost:1313/blogs/how-i-built-a-saas-on-top-of-strapi-and-why-you-should-too/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/blogs/how-i-built-a-saas-on-top-of-strapi-and-why-you-should-too/</guid>
+      <description>&lt;p&gt;In this post I’m going to share my experience on building a SaaS using the &lt;a href=&#34;https://strapi.io/&#34;&gt;headless CMS Strapi&lt;/a&gt; as the Backend, React Native and other technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction&lt;/li&gt;&#xA;&lt;li&gt;What is SaaS?&lt;/li&gt;&#xA;&lt;li&gt;The problem&lt;/li&gt;&#xA;&lt;li&gt;What is Strapi?&lt;/li&gt;&#xA;&lt;li&gt;Developing features in Strapi&lt;/li&gt;&#xA;&lt;li&gt;The frontend: How to get content&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Landing Page&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Very often, developers, product and project managers, testers and pretty much the entire team share their ideas to decide what language and which framework they&amp;rsquo;ll use to build their next project. Some considerations must be taken into account, from which in my opinion there are three that are the most important:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

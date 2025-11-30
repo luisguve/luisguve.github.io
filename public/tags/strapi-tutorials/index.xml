@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strapi Tutorials on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/strapi-tutorials/</link>
+    <description>Recent content in Strapi Tutorials on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Sun, 29 Jan 2023 12:21:25 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/strapi-tutorials/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Enable And Manage Comments In Your Strapi Application.</title>
+      <link>//localhost:1313/blogs/how-to-enable-and-manage-comments-in-your-strapi-application/</link>
+      <pubDate>Sun, 29 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/blogs/how-to-enable-and-manage-comments-in-your-strapi-application/</guid>
+      <description>&lt;p&gt;Enable comments in a Strapi application and display them in the frontend with React&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction&lt;/li&gt;&#xA;&lt;li&gt;Prerequisites&lt;/li&gt;&#xA;&lt;li&gt;What is Strapi Comment Manager?&lt;/li&gt;&#xA;&lt;li&gt;Installation&lt;/li&gt;&#xA;&lt;li&gt;Configuration&lt;/li&gt;&#xA;&lt;li&gt;Display comments on the frontend&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Installation of Strapi Comments Client&lt;/li&gt;&#xA;&lt;li&gt;Usage of Strapi Comments Client&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;Plugin settings&lt;/li&gt;&#xA;&lt;li&gt;Manage comments&lt;/li&gt;&#xA;&lt;li&gt;Full source code of the frontend&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;A comment system comes in very handy for pretty much any kind of website. In the JAMstack ecosystem, while it&amp;rsquo;s ok to rely on third party solutions hosted on their own platform such as Disqus to enable comments, you usually want to keep your content and all the stuff related to it in the same admin dashboard.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>How To Enable And Manage User Reviews In Your Strapi Application</title>
+      <link>//localhost:1313/blogs/how-to-enable-and-manage-user-reviews-in-your-strapi-application/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/blogs/how-to-enable-and-manage-user-reviews-in-your-strapi-application/</guid>
+      <description>&lt;p&gt;Enable User Reviews in a Strapi application and display them in the frontend with React&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Introduction&lt;/li&gt;&#xA;&lt;li&gt;Prerequisites&lt;/li&gt;&#xA;&lt;li&gt;What is Strapi Ratings?&lt;/li&gt;&#xA;&lt;li&gt;Installation&lt;/li&gt;&#xA;&lt;li&gt;Configuration&lt;/li&gt;&#xA;&lt;li&gt;Display user reviews on the frontend&lt;/li&gt;&#xA;&lt;li&gt;Plugin settings&lt;/li&gt;&#xA;&lt;li&gt;Manage user reviews&lt;/li&gt;&#xA;&lt;li&gt;Full source code of the frontend&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;&#xA;&lt;p&gt;Ratings systems have become a crucial part of any website with ecommerce capabilites, as they allow the users to post reviews on the items they purchase and publish their opinion to the public. A couple of reviews can make the difference between pressing the “Buy” button and moving on to the next website in the Google search results.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

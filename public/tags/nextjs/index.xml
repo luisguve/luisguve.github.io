@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NextJS on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/nextjs/</link>
+    <description>Recent content in NextJS on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Mon, 30 Jan 2023 18:14:25 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/nextjs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>E-Learning platform: EULA</title>
+      <link>//localhost:1313/projects/e-learning-platform-eula/</link>
+      <pubDate>Mon, 30 Jan 2023 18:14:25 +0600</pubDate>
+      <guid>//localhost:1313/projects/e-learning-platform-eula/</guid>
+      <description>&lt;p&gt;EULA is an e-learning platform built with &lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt;, NextJS, Typescript and other technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The idea&lt;/li&gt;&#xA;&lt;li&gt;Platform features&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;The API&lt;/li&gt;&#xA;&lt;li&gt;The frontend&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Landing Page&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-idea&#34;&gt;The idea&lt;/h3&gt;&#xA;&lt;p&gt;This project doesn&amp;rsquo;t necessarily bring a huge amount of innovation on the e-learning platforms that already exists, but it&amp;rsquo;s just another way of doing this type of application.&lt;/p&gt;&#xA;&lt;p&gt;The main idea is to apply a JAMstack approach in this application, where the platform is a static website, and the backend is just an API that serves static content only once to build the website and just adds the dynamism that&amp;rsquo;s necessary to allow users to authenticate, create orders, confirm payments and take courses.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

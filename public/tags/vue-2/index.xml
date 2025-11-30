@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vue 2 on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/vue-2/</link>
+    <description>Recent content in Vue 2 on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Fri, 15 Mar 2024 12:00:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/vue-2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ISC Chile: Educational Consultancy Website</title>
+      <link>//localhost:1313/projects/isc-chile-educational-consultancy-website/</link>
+      <pubDate>Fri, 15 Mar 2024 12:00:00 +0600</pubDate>
+      <guid>//localhost:1313/projects/isc-chile-educational-consultancy-website/</guid>
+      <description>&lt;p&gt;ISC Chile is an educational consultancy website for study abroad programs, built on top of WordPress with the Themosis framework, featuring GSAP animations, multi-step contact forms, advanced blog filtering, and comprehensive content management using Vue 2, Laravel Mix, and modern frontend technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The project&lt;/li&gt;&#xA;&lt;li&gt;Design implementation&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;Frontend architecture&lt;/li&gt;&#xA;&lt;li&gt;Key features&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Live website&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-project&#34;&gt;The project&lt;/h3&gt;&#xA;&lt;p&gt;ISC Chile is an educational consultancy agency that has been providing study abroad advisory services since 1996. The website serves as the primary platform for showcasing various educational programs including English courses, school exchanges, group travel programs, and Pathways programs for university admission abroad.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

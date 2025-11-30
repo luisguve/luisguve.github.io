@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/es/tags/</link>
+    <description>Recent content in Tags on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>es-ve</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Sun, 01 Jan 2023 12:21:25 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>React Native</title>
+      <link>//localhost:1313/es/tags/react-native/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/es/tags/react-native/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strapi</title>
+      <link>//localhost:1313/es/tags/strapi/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/es/tags/strapi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strapi Plugins</title>
+      <link>//localhost:1313/es/tags/strapi-plugins/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/es/tags/strapi-plugins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Strapi Tutorials</title>
+      <link>//localhost:1313/es/tags/strapi-tutorials/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/es/tags/strapi-tutorials/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Typescript</title>
+      <link>//localhost:1313/es/tags/typescript/</link>
+      <pubDate>Sun, 01 Jan 2023 12:21:25 +0600</pubDate>
+      <guid>//localhost:1313/es/tags/typescript/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

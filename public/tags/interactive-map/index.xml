@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interactive Map on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/interactive-map/</link>
+    <description>Recent content in Interactive Map on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Wed, 20 Nov 2024 12:00:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/interactive-map/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ETMday: Entrepreneurship Event Website</title>
+      <link>//localhost:1313/projects/etmday-entrepreneurship-event-website/</link>
+      <pubDate>Wed, 20 Nov 2024 12:00:00 +0600</pubDate>
+      <guid>//localhost:1313/projects/etmday-entrepreneurship-event-website/</guid>
+      <description>&lt;p&gt;ETMday (Emprende tu Mente) is a large-scale entrepreneurship event website built on top of WordPress with the Themosis framework, featuring an interactive SVG map, real-time countdown timers, advanced search functionality, and comprehensive content management using Vue 3, Laravel Mix, and modern frontend technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The project&lt;/li&gt;&#xA;&lt;li&gt;Key features&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;Frontend architecture&lt;/li&gt;&#xA;&lt;li&gt;Interactive components&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Live website&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-project&#34;&gt;The project&lt;/h3&gt;&#xA;&lt;p&gt;ETMday is Chile&amp;rsquo;s premier entrepreneurship event, bringing together thousands of entrepreneurs, startups, corporates, and strategic partners. The website serves as the central hub for event information, featuring speakers, activities, stands, program schedules, and an interactive event map.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

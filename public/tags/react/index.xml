@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/react/</link>
+    <description>Recent content in React on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Sat, 29 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ManyLMS: E-Learning platform</title>
+      <link>//localhost:1313/projects/e-learning-platform-maestro-lms/</link>
+      <pubDate>Sat, 29 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/e-learning-platform-maestro-lms/</guid>
+      <description>&lt;p&gt;ManyLMS is an e-learning platform built on top of &lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt;, React Router 7, Typescript and other technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The idea&lt;/li&gt;&#xA;&lt;li&gt;Platform features&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;The API&lt;/li&gt;&#xA;&lt;li&gt;The frontend&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Landing Page&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-idea&#34;&gt;The idea&lt;/h3&gt;&#xA;&lt;p&gt;This project doesn&amp;rsquo;t necessarily bring a huge amount of innovation on the e-learning platforms that already exists, but it&amp;rsquo;s just another way of doing this type of application.&lt;/p&gt;&#xA;&lt;p&gt;The main idea is to apply a JAMstack approach in this application, where the platform is a static website, and the backend is just an API that serves static content only once to build the website and just adds the dynamism that&amp;rsquo;s necessary to allow users to authenticate, create orders, confirm payments and take courses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>SaaS platform: Rutieri</title>
+      <link>//localhost:1313/projects/saas-platform-rutieri/</link>
+      <pubDate>Mon, 30 Jan 2023 12:14:25 +0600</pubDate>
+      <guid>//localhost:1313/projects/saas-platform-rutieri/</guid>
+      <description>&lt;p&gt;Rutieri is a SaaS platform built with &lt;a href=&#34;https://strapi.io/&#34;&gt;Strapi&lt;/a&gt;, React Native, Typescript and other technologies.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The idea&lt;/li&gt;&#xA;&lt;li&gt;Platform features&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;The API&lt;/li&gt;&#xA;&lt;li&gt;The frontend&lt;/li&gt;&#xA;&lt;li&gt;The mobile app&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Landing Page&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-idea&#34;&gt;The idea&lt;/h3&gt;&#xA;&lt;p&gt;Before starting to write a single line of code, it is generally a good idea to think about the problem, it&amp;rsquo;s limitations and whether or not it has already been solved by someone else (AKA competitors).&lt;/p&gt;&#xA;&lt;p&gt;The problem I was looking into had to do with the way in which public and private transportation companies manage their routes, drivers and users. This process is generally carried out on paper, e.g. not digital, hence this could be problematic in case of new drivers joining the organization or in case of restricting access to data to only specific users.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

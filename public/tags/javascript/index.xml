@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JavaScript on Luis G. Villegas - Personal Blog</title>
+    <link>//localhost:1313/tags/javascript/</link>
+    <description>Recent content in JavaScript on Luis G. Villegas - Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy;2023 &lt;br&gt;</copyright>
+    <lastBuildDate>Mon, 15 Jan 2024 12:00:00 +0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chile Nativo: Patagonia Travel Website</title>
+      <link>//localhost:1313/projects/chile-nativo-patagonia-travel-website/</link>
+      <pubDate>Mon, 15 Jan 2024 12:00:00 +0600</pubDate>
+      <guid>//localhost:1313/projects/chile-nativo-patagonia-travel-website/</guid>
+      <description>&lt;p&gt;Chile Nativo is a travel tour website for Patagonia experiences, built on top of WordPress with the Themosis framework, featuring a modern frontend implementation based on a Figma design using Vue 3, Laravel Mix, and a comprehensive SCSS architecture.&lt;/p&gt;&#xA;&lt;h3 id=&#34;outline&#34;&gt;Outline&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The project&lt;/li&gt;&#xA;&lt;li&gt;Design implementation&lt;/li&gt;&#xA;&lt;li&gt;The stack&lt;/li&gt;&#xA;&lt;li&gt;Frontend architecture&lt;/li&gt;&#xA;&lt;li&gt;Key features&lt;/li&gt;&#xA;&lt;li&gt;Conclusion&lt;/li&gt;&#xA;&lt;li&gt;Live website&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;the-project&#34;&gt;The project&lt;/h3&gt;&#xA;&lt;p&gt;Chile Nativo is a travel company specializing in Patagonia tours, offering experiences in destinations like Torres del Paine, Tierra del Fuego, and Isla Navarino. The website serves as the primary platform for showcasing tours, managing bookings, and providing information about their travel experiences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
