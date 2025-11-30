@@ -166,36 +166,3 @@ weight = 3
 name = "Contact"
 url = "contact/"
 weight = 5
-
-
-################################### Español #####################################
-[Languages.es]
-languageName = "Es"
-languageCode = "es-ve"
-contentDir = "content/spanish"
-weight = 2
-# copyright
-copyright = "Copyright &copy;2023 <br>"
-
-
-############# English navigation ##############
-# main menu
-[[Languages.es.menu.main]]
-name = "Inicio"
-url = ""
-weight = 1
-
-[[Languages.es.menu.main]]
-name = "Acerca"
-url = "about/"
-weight = 2
-
-[[Languages.es.menu.main]]
-name = "Blogs"
-url = "blogs/"
-weight = 3
-
-[[Languages.es.menu.main]]
-name = "Contacto"
-url = "contact/"
-weight = 5

@@ -3,7 +3,7 @@ title: "ManyLMS: E-Learning platform"
 description: "In this post I am going to share my experience on building an e-learning platform using the headless CMS Strapi as the Backend and React Router 7."
 images:
   - "/images/project/manylms/frontend/course_overview.png"
-date: 2025-11-29
+date: 2025-11-22
 tags: ["Strapi", "React", "React Router 7", "Typescript", "Mux"]
 categories: ["Projects"]
 draft: false
