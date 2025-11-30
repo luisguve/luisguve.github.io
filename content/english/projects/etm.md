@@ -3,7 +3,7 @@ title: "ETMday: Entrepreneurship Event Website"
 description: "In this post I am going to share my experience on building the frontend for ETMday, a large-scale entrepreneurship event website featuring an interactive map, real-time countdown, advanced search, and dynamic content management using Vue 3, Laravel Mix, and modern frontend technologies."
 images:
   - "images/project/etm/home.png"
-date: 2024-11-20T12:00:00+06:00
+date: 2025-10-06
 tags: ["Vue 3", "Laravel Mix", "WordPress", "Themosis", "SCSS", "JavaScript", "Interactive Map", "SVG"]
 categories: ["Projects"]
 draft: false

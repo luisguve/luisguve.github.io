@@ -3,7 +3,7 @@ title: "Chile Nativo: Patagonia Travel Website"
 description: "In this post I am going to share my experience on building the frontend for Chile Nativo, a travel tour website for Patagonia experiences, implementing a Figma design using Vue 3, Laravel Mix, and modern frontend technologies."
 images:
   - "images/project/chile-nativo/home.png"
-date: 2024-01-15T12:00:00+06:00
+date: 2025-05-22
 tags: ["Vue 3", "Laravel Mix", "WordPress", "Themosis", "SCSS", "JavaScript", "Figma"]
 categories: ["Projects"]
 draft: false
