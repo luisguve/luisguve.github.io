@@ -3,7 +3,8 @@ baseURL = ""
 title = "Luis G. Villegas - Personal Blog"
 theme = "editor"
 # post pagination
-paginate = "12"
+[pagination]
+pagerSize = "12"
 # post excerpt
 summaryLength = "10"
 # google analytics
