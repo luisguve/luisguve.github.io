@@ -1,16 +1,16 @@
 ---
-title: "E-Learning platform: EULA"
-description: "In this post I am going to share my experience on building an e-learning platform using the headless CMS Strapi as the Backend and NextJS."
+title: "ManyLMS: E-Learning platform"
+description: "In this post I am going to share my experience on building an e-learning platform using the headless CMS Strapi as the Backend and React Router 7."
 images:
-  - "images/project/eula/frontend/homepage.webp"
-date: 2023-01-30T18:14:25+06:00
-tags: ["Strapi", "React", "NextJS", "Typescript", "Mux"]
+  - "/images/project/manylms/frontend/course_overview.png"
+date: 2025-11-29
+tags: ["Strapi", "React", "React Router 7", "Typescript", "Mux"]
 categories: ["Projects"]
 draft: false
-slug: "e-learning-platform-eula"
+slug: "e-learning-platform-maestro-lms"
 ---
 
-EULA is an e-learning platform built with [Strapi](https://strapi.io/), NextJS, Typescript and other technologies.
+ManyLMS is an e-learning platform built on top of [Strapi](https://strapi.io/), React Router 7, Typescript and other technologies.
 
 ### Outline
 
@@ -28,7 +28,7 @@ This project doesn't necessarily bring a huge amount of innovation on the e-lear
 
 The main idea is to apply a JAMstack approach in this application, where the platform is a static website, and the backend is just an API that serves static content only once to build the website and just adds the dynamism that's necessary to allow users to authenticate, create orders, confirm payments and take courses.
 
-If we compare this approach to a WordPress website, we are taking out most of the overhead that implies rendering the pages everytime a user visits them. Despite that there are plugins for caching that may improve the performance, it's still never going to be faster and more efficient that just static content served by a CDN. That's why NextJS and Headless CMSs are so popular right now.
+If we compare this approach to a WordPress website, we are taking out most of the overhead that implies rendering the pages everytime a user visits them. Despite that there are plugins for caching that may improve the performance, it's still never going to be faster and more efficient than just static content served by a CDN. That's why React Router 7 and Headless CMSs are so popular right now.
 
 ### Platform features and user stories
 
@@ -96,36 +96,38 @@ Below are some screenshots of these content types and the relationships between 
 
 ### The frontend
 
-The platform where users are able to login, view, buy and take courses is a single page web application built in React with NextJS. Among the features of this application are:
+The platform where users are able to login, view, buy and view courses is a web application built with React Router 7. Among the features of this application are:
 
 - State managed by Context API
 - Interface styled with Bootstrap
-- Play streaming videos with [hls.js](https://www.npmjs.com/package/hls.js) library
+- Play streaming videos with [@mux/mux-player-react](www.npmjs.com/package/@mux/mux-player-react) library
 - Use of localStorage to save user session
 
 Below are some sample screenshots of how this app looks like
 
-![homepage](/images/project/eula/frontend/homepage.webp)
-![login](/images/project/eula/frontend/login.webp)
-![course overview](/images/project/eula/frontend/course_overview.png)
-![cart overview](/images/project/eula/frontend/cart_overview.png)
-![choose payment method](/images/project/eula/frontend/choose_payment_method.png)
-![payment page](/images/project/eula/frontend/stripe_payment_page.png)
-![successful payment](/images/project/eula/frontend/successful_payment.png)
-![learning page](/images/project/eula/frontend/learning_page.png)
-![course lecture](/images/project/eula/frontend/course_lecture.webp)
+![homepage](/images/project/manylms/frontend/home.png)
+![login](/images/project/manylms/frontend/login.png)
+![course overview](/images/project/manylms/frontend/course_overview.png)
+![couse curriculum](/images/project/manylms/frontend/course_curriculum.png)
+![payment page](/images/project/manylms/frontend/stripe_payment_page.png)
+![successful payment](/images/project/manylms/frontend/successful_payment.png)
+![successful payment 2](/images/project/manylms/frontend/successful_payment-2.png)
+![learning page](/images/project/manylms/frontend/profile.png)
+![course lecture](/images/project/manylms/frontend/course_lecture.png)
 
 #### Conclusion and final thoughts
 
 While building this project, I learned:
 
 - How streaming on demand works and how to use a streaming provider
-- How to statically build websites with NextJS and Strapi
-- How to setup dynamic pages in NextJS
+- How to statically build websites with React Router 7 and Strapi
+- How to setup dynamic pages in React Router 7
 - How to process payments with Stripe and Paypal
 - How to build custom plugins in Strapi
 - How to publish packages to NPM
 
-### Project landing page:
+### Project source codes:
 
-https://eula.netlify.app
+https://github.com/luisguve/maestro-backend
+
+https://github.com/luisguve/new-lms-remix
